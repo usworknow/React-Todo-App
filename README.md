@@ -1,14 +1,23 @@
-# PrepHoops ReactJS Boilerplate
+## To-Do Application Challenge
 
-## Overview
+**Frontend**: React, React-Thunk, ES6, JavaScript, HTML5, CSS3, SCSS/LESS.
 
-This is a bare bones ReactJS setup. This has all of the configurations we use as well as SCSS and the general application structure we use.
+**Backend**: Laravel, MySQL
 
-## Version
+## Requirement
 
-0.1.0
+-   Create an account
+-   Create a To-Do item
+-   Edit a To-Do item
+-   Delete a To-Do item
+-   Complete a To-Do item
+-   Uncomplete a To-Do item
+-   Tag or Categorize an item
+-   Search
+-   Logout
+-   Anything else you see that would create a plea
 
-## Get Started
+## Instructions
 
 ```
 git clone https://github.com/usworknow/React-Todo-App.git
